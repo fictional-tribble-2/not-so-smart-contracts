@@ -1,5 +1,7 @@
 # (Not So) Smart Contracts
 
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/not-so-smart-contracts.svg)](https://www.staging.guardrails.io)
+
 This repository contains examples of common Ethereum smart contract vulnerabilities, including code from real smart contracts.
 It also includes a repository and analysis of several [honeypots](honeypots/)
 
